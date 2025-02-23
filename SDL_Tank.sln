@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SDL_Tank", "SDL_Tank\SDL_Tank.vcxproj", "{14756F17-3BC4-42CF-9C82-0FEBB748DD5C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14756F17-3BC4-42CF-9C82-0FEBB748DD5C}.Debug|x64.ActiveCfg = Debug|x64
+		{14756F17-3BC4-42CF-9C82-0FEBB748DD5C}.Debug|x64.Build.0 = Debug|x64
+		{14756F17-3BC4-42CF-9C82-0FEBB748DD5C}.Debug|x86.ActiveCfg = Debug|Win32
+		{14756F17-3BC4-42CF-9C82-0FEBB748DD5C}.Debug|x86.Build.0 = Debug|Win32
+		{14756F17-3BC4-42CF-9C82-0FEBB748DD5C}.Release|x64.ActiveCfg = Release|x64
+		{14756F17-3BC4-42CF-9C82-0FEBB748DD5C}.Release|x64.Build.0 = Release|x64
+		{14756F17-3BC4-42CF-9C82-0FEBB748DD5C}.Release|x86.ActiveCfg = Release|Win32
+		{14756F17-3BC4-42CF-9C82-0FEBB748DD5C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF732E9A-3662-465B-913A-B1B543A5A299}
+	EndGlobalSection
+EndGlobal
