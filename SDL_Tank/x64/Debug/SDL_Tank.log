@@ -1,9 +1,4 @@
 ﻿  SDL_Tank.cpp
-D:\Project\SDL_Tank\SDL_Tank\SDL_Tank.cpp(31,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\Project\SDL_Tank\SDL_Tank\SDL_Tank.cpp(41,58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-D:\Project\SDL_Tank\SDL_Tank\SDL_Tank.cpp(67,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
-D:\Project\SDL_Tank\SDL_Tank\SDL_Tank.cpp(68,81): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-D:\Project\SDL_Tank\SDL_Tank\SDL_Tank.cpp(68,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-D:\Project\SDL_Tank\SDL_Tank\SDL_Tank.cpp(68,46): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-D:\Project\SDL_Tank\SDL_Tank\SDL_Tank.cpp(68,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
-  SDL_Tank.vcxproj -> D:\Project\SDL_Tank\x64\Debug\SDL_Tank.exe
+C:\Users\Shcct\Desktop\Tank_Reboot_SDL\SDL_Tank\SDL_Tank.cpp(53,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Shcct\Desktop\Tank_Reboot_SDL\SDL_Tank\SDL_Tank.cpp(64,58): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SDL_Tank.vcxproj -> C:\Users\Shcct\Desktop\Tank_Reboot_SDL\x64\Debug\SDL_Tank.exe

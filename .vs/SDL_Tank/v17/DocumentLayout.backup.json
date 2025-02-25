@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Project\\SDL_Tank\\",
+  "WorkspaceRootPath": "C:\\Users\\Shcct\\Desktop\\Tank_Reboot_SDL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{14756F17-3BC4-42CF-9C82-0FEBB748DD5C}|SDL_Tank\\SDL_Tank.vcxproj|D:\\Project\\SDL_Tank\\SDL_Tank\\SDL_Tank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{14756F17-3BC4-42CF-9C82-0FEBB748DD5C}|SDL_Tank\\SDL_Tank.vcxproj|C:\\Users\\Shcct\\Desktop\\Tank_Reboot_SDL\\SDL_Tank\\SDL_Tank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{14756F17-3BC4-42CF-9C82-0FEBB748DD5C}|SDL_Tank\\SDL_Tank.vcxproj|solutionrelative:SDL_Tank\\SDL_Tank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -14,17 +14,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "SDL_Tank.cpp",
-              "DocumentMoniker": "D:\\Project\\SDL_Tank\\SDL_Tank\\SDL_Tank.cpp",
+              "DocumentMoniker": "C:\\Users\\Shcct\\Desktop\\Tank_Reboot_SDL\\SDL_Tank\\SDL_Tank.cpp",
               "RelativeDocumentMoniker": "SDL_Tank\\SDL_Tank.cpp",
-              "ToolTip": "D:\\Project\\SDL_Tank\\SDL_Tank\\SDL_Tank.cpp",
+              "ToolTip": "C:\\Users\\Shcct\\Desktop\\Tank_Reboot_SDL\\SDL_Tank\\SDL_Tank.cpp",
               "RelativeToolTip": "SDL_Tank\\SDL_Tank.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-02-19T15:36:05.436Z",
               "EditorCaption": ""
